@@ -17,11 +17,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Keep in mind, this library/repository/project is not a REAL project, and serves more as an example.\
 As such, the tags and releases should be seen as an example of how the changelog updater behaves in real-life.
 
-### Added
-
-- Add the first feature ([#1](https://github.com/claudiodekker/changelog-updater-example/pull/1))
-
 ### Fixed
-
 - Fix typo: awsoeme -> awesome ([#2](https://github.com/claudiodekker/changelog-updater-example/pull/2))
 - Fix: Dot should be comma ([#3](https://github.com/claudiodekker/changelog-updater-example/pull/3))
+### Added
+- Add the first feature ([#1](https://github.com/claudiodekker/changelog-updater-example/pull/1))
