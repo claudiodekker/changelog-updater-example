@@ -14,3 +14,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Fix typo: awsoeme -> awesome ([#2](https://github.com/claudiodekker/changelog-updater-example/pull/2))
+- Fix: Dot should be comma ([#3](https://github.com/claudiodekker/changelog-updater-example/pull/3))
