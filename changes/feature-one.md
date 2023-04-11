@@ -1,1 +1,1 @@
-This is feature one. awesome!
+This is feature one, awesome!
