@@ -10,3 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Add the first feature ([#1](https://github.com/claudiodekker/changelog-updater-example/pull/1))
+
+### Fixed
+
+- Fix typo: awsoeme -> awesome ([#2](https://github.com/claudiodekker/changelog-updater-example/pull/2))
