@@ -15,6 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changelog: Fix v1.0.0 release reference link ([#5](https://github.com/claudiodekker/changelog-updater-example/pull/5))
 
+### Removed
+
+- Delete changes directory ([#7](https://github.com/claudiodekker/changelog-updater-example/pull/7))
+
 
 ## [v1.0.0](https://github.com/claudiodekker/changelog-updater-example/releases/tag/v1.0.0) - 2023-04-11
 
